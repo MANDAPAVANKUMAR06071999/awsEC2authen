@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3"
+  },
+
+  "devDependencies": {
+    "serverless": "^3.9.0"
+  }
+}
